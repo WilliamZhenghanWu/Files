@@ -1,4 +1,8 @@
 /*
+-----------------------------·ÇÍøÕ¾¸´ÖÆ--------------------------
+±¾³ÌĞòÎªWindowsµÄcmd·ÂÕæ£¬ÓÉÎâWiliam¿ª·¢£¬°æÈ¨ËùÓĞ£¬ÇëÎğµÁÈ¡£¡ 
+´´½¨ÈÕÆÚ£º2022.2.2    21:28 
+-----------------------------·ÇÍøÕ¾¸´ÖÆ-------------------------- 
 -----------------------------Non Site Replication--------------------------
 
 The simulation program developed by Wu Zhenghan, do not steal the copyright of windows CMD!
@@ -6,20 +10,13 @@ The simulation program developed by Wu Zhenghan, do not steal the copyright of w
 Creation date: 2022.2.2 21:28
 
 -----------------------------Non Site Replication--------------------------
-
-
-
------------------------------éç½‘ç«™å¤åˆ¶--------------------------
-æœ¬ç¨‹åºä¸ºWindowsçš„cmdä»¿çœŸï¼Œç”±Williamå¼€å‘ï¼Œç‰ˆæƒæ‰€æœ‰ï¼Œè¯·å‹¿ç›—å–ï¼ 
-åˆ›å»ºæ—¥æœŸï¼š2022.2.2    21:28 
------------------------------éç½‘ç«™å¤åˆ¶-------------------------- 
 */
-#include<bits/stdc++.h>//åŒ…å«äº†system
+#include<bits/stdc++.h>//°üº¬ÁËsystem
 using namespace std;
 int main(){
 	string a="C:/Users/dell>"; 
-	cout<<"Microsoft Windows [ç‰ˆæœ¬ 10.0.22000.469]"<<endl;
-	cout<<"(c) Microsoft Corporationã€‚ä¿ç•™æ‰€æœ‰æƒåˆ©ã€‚"<<endl;
+	cout<<"Microsoft Windows [°æ±¾ 10.0.22000.469]"<<endl;
+	cout<<"(c) Microsoft Corporation¡£±£ÁôËùÓĞÈ¨Àû¡£"<<endl;
 	cout<<endl;
 	while(1){
 	    cout<<a;
